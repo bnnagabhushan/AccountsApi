@@ -12,7 +12,7 @@
     "AccountApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/Accounts",
+      "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
